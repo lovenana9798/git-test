@@ -10,7 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c82e84de-7d46-4de9-985d-95c1b0298dfc" name="Default Changelist" comment="first commit">
+    <list default="true" id="c82e84de-7d46-4de9-985d-95c1b0298dfc" name="Default Changelist" comment="master commit2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com.atguigu/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.atguigu/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="hot-fix" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,7 +60,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="GitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -150,6 +151,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="546" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1716975022256" />
+    <state x="636" y="306" key="Github.ShareDialog" timestamp="1716982417170">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="636" y="306" key="Github.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1716982417170" />
     <state width="1358" height="205" key="GridCell.Tab.0.bottom" timestamp="1716975628161">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -166,10 +171,18 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1358" height="205" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1716975628161" />
-    <state x="267" y="0" key="SettingsEditor" timestamp="1716980716014">
+    <state x="-6" y="0" width="1390" height="816" key="MergeDialog" timestamp="1716981538834">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="267" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1716980716014" />
+    <state x="-6" y="0" width="1390" height="816" key="MergeDialog/0.0.1536.816@0.0.1536.816" timestamp="1716981538834" />
+    <state x="649" y="275" key="MultipleFileMergeDialog" timestamp="1716981538838">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="649" y="275" key="MultipleFileMergeDialog/0.0.1536.816@0.0.1536.816" timestamp="1716981538838" />
+    <state x="267" y="0" key="SettingsEditor" timestamp="1716982286551">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="267" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1716982286551" />
     <state x="175" y="69" key="new project wizard" timestamp="1716973704606">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
